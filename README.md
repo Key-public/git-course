@@ -7,3 +7,4 @@ necessary.
 When you are finished, find someone to check your work. They can clone your repository to
 check it. Feel free to experiment and good luck!
 
+![Schema](https://raw.githubusercontent.com/Key-public/git-course/master/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202020-06-11%20163741.png)
